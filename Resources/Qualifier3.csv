@@ -1,0 +1,60 @@
+ID,Definition
+364,Positive
+365,Neutral
+366,Negative
+548,Over Previous Gainline
+549,Behind Previous Gainline
+550,Equal to Previous Gainline
+551,N/A Gainline
+288,Long
+289,Short
+207,Catch and Drive
+208,Catch and Pass
+420,Catch and Run
+211,Off the Top
+214,Offence
+215,Defence
+109,Crossed Gain line
+110,Neutral Gain line
+111,Failed Gain line
+185,Kick in Play
+186,Kick in Play (Own 22)
+148,Penalty Kick
+533,Missed Left
+534,Missed Right
+535,Hit Left Post
+536,Hit Right Post
+537,Hit Crossbar
+538,Dropped Short
+539,Charged Down
+441,Assist
+588,OOA Entry 1st Entry - Att
+589,OOA Entry 2nd Entry - Att
+590,OOA Entry 3rd Entry - Att
+591,OOA Entry 4th Entry - Att
+592,OOA Entry 5th Entry - Att
+593,OOA Entry 6th Entry - Att
+594,OOA Entry 7th Entry - Att
+595,OOA Entry 8th Entry - Att
+596,OOA Entry 9th Entry - Att
+597,OOA Entry 10th Entry - Att
+598,OOA Entry 11th Entry - Att
+599,OOA Entry 12th Entry - Att
+600,OOA Entry 13th Entry - Att
+601,OOA Entry 14th Entry - Att
+602,OOA Entry 15th Entry - Att
+603,OOA Entry 1st Entry - Def
+604,OOA Entry 2nd Entry - Def
+605,OOA Entry 3rd Entry - Def
+606,OOA Entry 4th Entry - Def
+607,OOA Entry 5th Entry - Def
+608,OOA Entry 6th Entry - Def
+609,OOA Entry 7th Entry - Def
+610,OOA Entry 8th Entry - Def
+611,OOA Entry 9th Entry - Def
+612,OOA Entry 10th Entry - Def
+613,OOA Entry 11th Entry - Def
+614,OOA Entry 12th Entry - Def
+615,OOA Entry 13th Entry - Def
+616,OOA Entry 14th Entry - Def
+617,OOA Entry 15th Entry - Def
